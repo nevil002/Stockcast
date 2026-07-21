@@ -129,7 +129,7 @@ This layered architecture ensures that each stage of the pipeline can evolve ind
 The forecasting workflow transforms raw retail transaction data into actionable inventory recommendations through a structured machine learning pipeline.
 
 <p align="center">
-<img src="images/Model_Flow.png" width="1000">
+<img src="images/ML_Workflow.png" width="1000">
 </p>
 
 ---
