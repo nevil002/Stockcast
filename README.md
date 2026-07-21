@@ -42,11 +42,11 @@ An End-to-End Machine Learning Platform for Retail Demand Forecasting & Inventor
 
 <p align="center">
 
-<img src="images/streamlit_dashboard.png" width="900">
+<img src="images/streamlit_dashboard.png" width="1000">
 
 <br><br>
 
-<img src="images/powerbi_dashboard.png" width="900">
+<img src="images/powerbi_dashboard.png" width="1000">
 
 </p>
 
