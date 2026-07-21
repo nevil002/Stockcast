@@ -1,0 +1,4 @@
+Rival Model,TFT Better,Rival Better,Tie (No Sig. Diff)
+XGBoost,2,17,31
+Prophet,3,15,32
+Seq2Seq,4,27,19

@@ -1,0 +1,28 @@
+{
+  "name": "Dark Blueprint",
+  "dataColors": [
+    "#38BDF8",
+    "#10B981",
+    "#F59E0B",
+    "#A855F7",
+    "#EF4444"
+  ],
+  "background": "#0F172A",
+  "foreground": "#F8FAFC",
+  "tableAccent": "#38BDF8",
+  "visualStyles": {
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#F8FAFC"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

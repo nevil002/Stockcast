@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+xgboost
+prophet
+torch
+pytorch-lightning
+pytorch-forecasting
+pyarrow
+joblib

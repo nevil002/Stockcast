@@ -1,0 +1,51 @@
+item_id,selected_model,current_stock,reorder_point,safety_stock_buffer,decision,suggested_order
+FOODS_1_004,XGBoost (Vol. Leader),43,14.2,4.7,STABLE,0.0
+FOODS_1_012,Seq2Seq (Reliability),56,20.6,1.4,STABLE,0.0
+FOODS_1_018,Seq2Seq (Reliability),33,74.9,8.4,REORDER,104.0
+FOODS_1_019,Seq2Seq (Reliability),19,74.3,7.8,REORDER,118.0
+FOODS_1_021,Seq2Seq (Reliability),47,14.6,1.6,STABLE,0.0
+FOODS_1_032,XGBoost (Vol. Leader),12,17.9,3.2,REORDER,28.0
+FOODS_1_036,Seq2Seq (Reliability),25,20.3,1.9,STABLE,0.0
+FOODS_1_040,XGBoost (Vol. Leader),43,21.2,2.7,STABLE,0.0
+FOODS_1_042,Seq2Seq (Reliability),23,30.3,3.1,REORDER,34.0
+FOODS_1_043,XGBoost (Vol. Leader),27,38.7,12.3,REORDER,73.0
+FOODS_1_044,XGBoost (Vol. Leader),15,10.7,2.8,STABLE,0.0
+FOODS_1_045,Seq2Seq (Reliability),15,17.3,1.6,REORDER,17.0
+FOODS_1_046,Seq2Seq (Reliability),28,67.6,7.6,REORDER,97.0
+FOODS_1_054,Seq2Seq (Reliability),57,16.8,1.8,STABLE,0.0
+FOODS_1_055,Seq2Seq (Reliability),40,19.1,1.5,STABLE,0.0
+FOODS_1_058,XGBoost (Vol. Leader),44,6.4,5.5,STABLE,0.0
+FOODS_1_067,Seq2Seq (Reliability),28,16.5,1.8,STABLE,0.0
+FOODS_1_082,Seq2Seq (Reliability),7,64.4,7.2,REORDER,114.0
+FOODS_1_085,XGBoost (Vol. Leader),26,72.0,7.2,REORDER,103.0
+FOODS_1_086,Seq2Seq (Reliability),57,43.0,3.9,STABLE,0.0
+FOODS_1_087,Seq2Seq (Reliability),6,21.1,1.5,REORDER,34.0
+FOODS_1_099,XGBoost (Vol. Leader),28,65.9,5.7,REORDER,92.0
+FOODS_1_104,Seq2Seq (Reliability),48,13.6,1.3,STABLE,0.0
+FOODS_1_110,XGBoost (Vol. Leader),34,33.8,10.6,STABLE,0.0
+FOODS_1_112,XGBoost (Vol. Leader),42,14.8,1.4,STABLE,0.0
+FOODS_1_113,Seq2Seq (Reliability),6,6.0,1.1,STABLE,0.0
+FOODS_1_120,Seq2Seq (Reliability),25,5.1,1.1,STABLE,0.0
+FOODS_1_130,Seq2Seq (Reliability),37,18.0,1.7,STABLE,0.0
+FOODS_1_137,Seq2Seq (Reliability),16,12.6,1.3,STABLE,0.0
+FOODS_1_139,Seq2Seq (Reliability),26,35.3,3.6,REORDER,40.0
+FOODS_1_153,Seq2Seq (Reliability),48,25.1,2.3,STABLE,0.0
+FOODS_1_154,XGBoost (Vol. Leader),29,21.9,2.3,STABLE,0.0
+FOODS_1_161,XGBoost (Vol. Leader),53,20.1,2.0,STABLE,0.0
+FOODS_1_162,XGBoost (Vol. Leader),31,21.8,2.4,STABLE,0.0
+FOODS_1_163,Seq2Seq (Reliability),46,8.2,1.3,STABLE,0.0
+FOODS_1_166,Seq2Seq (Reliability),32,18.0,1.8,STABLE,0.0
+FOODS_1_170,Seq2Seq (Reliability),20,10.1,0.8,STABLE,0.0
+FOODS_1_172,XGBoost (Vol. Leader),19,17.2,1.7,STABLE,0.0
+FOODS_1_173,Seq2Seq (Reliability),51,24.3,2.3,STABLE,0.0
+FOODS_1_181,XGBoost (Vol. Leader),55,24.0,2.1,STABLE,0.0
+FOODS_1_183,XGBoost (Vol. Leader),48,16.1,1.5,STABLE,0.0
+FOODS_1_184,XGBoost (Vol. Leader),59,15.9,1.5,STABLE,0.0
+FOODS_1_194,Seq2Seq (Reliability),56,14.1,1.2,STABLE,0.0
+FOODS_1_200,Seq2Seq (Reliability),7,59.8,6.2,REORDER,104.0
+FOODS_1_201,Seq2Seq (Reliability),41,17.0,1.6,STABLE,0.0
+FOODS_1_204,Seq2Seq (Reliability),55,28.2,2.9,STABLE,0.0
+FOODS_1_206,Seq2Seq (Reliability),11,18.0,1.8,REORDER,23.0
+FOODS_1_217,Seq2Seq (Reliability),25,20.9,1.7,STABLE,0.0
+FOODS_1_218,Seq2Seq (Reliability),13,57.2,6.1,REORDER,95.0
+FOODS_1_219,Seq2Seq (Reliability),43,20.9,2.1,STABLE,0.0
